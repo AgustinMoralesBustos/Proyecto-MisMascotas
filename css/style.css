@@ -63,7 +63,7 @@ nav{
 h1{
         font-size: var(--text-large);
 }
-img{
+Img{
     width: 100%;
 }
 /* HELPERS */
@@ -126,7 +126,7 @@ footer{
 footer a{
     text-decoration: none;
 }
-footer a img{
+footer a Img{
     height: 30px;
     width: 30px;
 }
@@ -169,7 +169,7 @@ footer a img{
     align-items: center;
     padding:var(--spacing-large);
 }
-.info-img{
+.info-Img{
     flex: 1 1 30%;
     text-align: justify;
 }
