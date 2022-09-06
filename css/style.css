@@ -110,8 +110,8 @@ h1{
     text-align: center;
 }
 
-/* FOOTER */
-footer{
+/* Footer */
+Footer{
     background-color: hsl(42, 78%, 62%);
     width: 100%;
     height: auto;
@@ -123,10 +123,10 @@ footer{
     bottom: 0;
     
 }
-footer a{
+Footer a{
     text-decoration: none;
 }
-footer a Img{
+Footer a Img{
     height: 30px;
     width: 30px;
 }
